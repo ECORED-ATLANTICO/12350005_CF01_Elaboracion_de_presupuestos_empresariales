@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Fundamentos del presupuesto organizacional y su estructura técnica'
