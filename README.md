@@ -4,12 +4,6 @@
 
 https://ecored-atlantico.github.io/73311548_CF01_Elaboracion_de_presupuestos_empresariales/#/
 
-
-Sharepoint: https://sena4.sharepoint.com/teams/virtualizacinLPAtlntico/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FvirtualizacinLPAtlntico%2FShared%20Documents%2FGeneral%2FLP%5FAtl%C3%A1ntico%2FProduccion%5F2025%2FComplementaria%5FLP%2FNuevos%2FElaboraci%C3%B3n%5Fde%5Fpresupuestos%5Fempresariales%2F2%5FFuentes&viewid=26cf9e93%2Df7a9%2D4cd4%2D8aa2%2D621efa24e0ab&csf=1&web=1&e=NYw58r&CID=90987b0c%2D5c0a%2D464e%2Da830%2De526c779ac74&FolderCTID=0x012000FE8C4843182CC14082B356AAD4D64129
-
-Planner: https://planner.cloud.microsoft/webui/plan/lrKOvY5UFkOIEsx-49y7TGQAEF_-/view/board/task/dBofLBzGWE60ajjcTGFz7mQADWm2?tid=cbc2c381-2f2e-4d93-91d1-506c9316ace7
-
-
 #
 
 ## **Configuración del proyecto**
