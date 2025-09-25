@@ -23,7 +23,7 @@
 
     //- titulo
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 1.1 Definición
+      h2#t_1_1 1.1 Definición y tipos
 
     p.mb-5 El presupuesto se concibe como un instrumento de gestión que proyecta de manera anticipada las operaciones financieras de una organización durante un periodo determinado. Constituye una representación cuantificada de los planes institucionales y se utiliza como guía para la asignación eficiente de recursos, el control de gastos y la evaluación de resultados. Su propósito trasciende lo contable:
 
@@ -120,51 +120,51 @@
       .row.align-items-center
         .col-12.col-md-12.col-lg-10.mx-auto
           PasosA.color-primario.mb-5(tipo="n")
-            .row
-              .col-md-8.mb-4.mb-md-0.order-2.order-lg-1
+            .row.align-items-center
+              .col-lg-8.mb-4.mb-lg-0.order-2.order-lg-1
                 h3 Planeación.
                 p Define objetivos estratégicos y metas financieras. Incluye análisis del entorno, tendencias del mercado, recursos disponibles y riesgos potenciales, con el fin de establecer lineamientos claros.
-              .col-md-4.mb-4.mb-md-0.order-1.order-lg-2
+              .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
                 figure
                   img(src='@/assets/curso/temas/tema1/img08.svg', alt='Texto que describa la imagen')
 
-            .row
-              .col-md-4.mb-4.mb-md-0
+            .row.align-items-center
+              .col-lg-4.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/tema1/img08.png', alt='Texto que describa la imagen')
-              .col-md-8.text-left
+                  img(src='@/assets/curso/temas/tema1/img09.svg', alt='Texto que describa la imagen')
+              .col-lg-8.text-left
                 h3 Formulación.
                 p Cuantificación de ingresos, egresos e inversiones, distribuidos por áreas o centros de responsabilidad. Utiliza proyecciones, series históricas y estudios de viabilidad para construir un presupuesto realista.
                 
-            .row
-              .col-md-8.mb-4.mb-md-0.order-2.order-lg-1
+            .row.align-items-center
+              .col-lg-8.mb-4.mb-lg-0.order-2.order-lg-1
                 h3 Aprobación.
                 p Revisión y validación del presupuesto por parte de la alta dirección. Formaliza la autorización de recursos, asigna responsabilidades y delimita compromisos institucionales.
-              .col-md-4.mb-4.mb-md-0.order-1.order-lg-2
+              .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
                 figure
-                  img(src='@/assets/curso/temas/tema1/img08.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/img10.svg', alt='Texto que describa la imagen')
 
-            .row
-              .col-md-4.mb-4.mb-md-0
+            .row.align-items-center
+              .col-lg-4.mb-4.mb-lg-0
                 figure
-                  img(src='@/assets/curso/temas/tema1/img08.png', alt='Texto que describa la imagen')
-              .col-md-8.mb-4.mb-md-0.text-left
+                  img(src='@/assets/curso/temas/tema1/img11.svg', alt='Texto que describa la imagen')
+              .col-lg-8.mb-4.mb-lg-0.text-left
                 h3 Ejecución.
                 p Implementación de los planes financieros en la operación. Exige disciplina en el gasto, cumplimiento de metas y uso racional de los recursos, alineados con los objetivos estratégicos.
             
-            .row
-              .col-md-8.mb-4.mb-md-0.order-2.order-lg-1
+            .row.align-items-center
+              .col-lg-8.mb-4.mb-lg-0.order-2.order-lg-1
                 h3 Control y seguimiento.
                 p Monitoreo periódico de los resultados frente a las proyecciones. El análisis de desviaciones permite identificar brechas, comprender sus causas y tomar medidas correctivas oportunas.
-              .col-md-4.mb-4.mb-md-0.order-1.order-lg-2
+              .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
                 figure
-                  img(src='@/assets/curso/temas/tema1/img08.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/img12.svg', alt='Texto que describa la imagen')
              
-            .row
-              .col-md-4.mb-4.mb-md-0
+            .row.align-items-center
+              .col-lg-4.mb-4.mb-lg-0
                 figure
-                  img(src='@/assets/curso/temas/tema1/img08.png', alt='Texto que describa la imagen')
-              .col-md-8.mb-4.mb-md-0.text-left
+                  img(src='@/assets/curso/temas/tema1/img13.svg', alt='Texto que describa la imagen')
+              .col-lg-8.mb-4.mb-lg-0.text-left
                 h3 Evaluación y retroalimentación.
                 p Genera aprendizajes para los siguientes ciclos presupuestales. Garantiza la mejora continua, fortalece la capacidad de respuesta y refuerza la sostenibilidad financiera de la organización.
 

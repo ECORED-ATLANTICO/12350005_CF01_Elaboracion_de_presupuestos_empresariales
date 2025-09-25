@@ -23,7 +23,7 @@ export default {
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión de los conceptos clave del presupuesto organizacional, su clasificación, estructura técnica y utilidad como herramienta de planificación y control.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {

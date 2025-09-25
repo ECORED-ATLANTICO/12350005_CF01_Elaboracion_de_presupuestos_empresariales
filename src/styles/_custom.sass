@@ -19,7 +19,7 @@ body
   &-3
     animation: float2 1.8s ease-in-out infinite alternate
     position: absolute
-    top: 45%
+    top: 55%
     right: 0%
     width: 102px
     @media (min-width: 1024px) and (max-width: 1440px)
@@ -28,7 +28,7 @@ body
   &-4
     animation: float1 3.2s ease-in-out infinite alternate
     position: absolute
-    top: 41%
+    top: 11%
     right: -5%
     width: 50px
     @media (min-width: 1024px) and (max-width: 1440px)
@@ -140,6 +140,10 @@ figcaption
     border-radius: 0.5em
     z-index: 10
     position: relative
+.tarjeta-horz
+  .texto-tarjeta
+    @media (max-width: 768px)
+      margin-top: -2rem
 
 .tarjeta-horz.curvas
   .texto-tarjeta

@@ -64,12 +64,12 @@
                 h3.pt-4 Egresos
                 p Son los desembolsos necesarios para el funcionamiento de la organización, incluyendo costos de producción, gastos administrativos, financieros y de inversión. Estas salidas de recursos permiten mantener la operación, cumplir obligaciones y apoyar el desarrollo, pero deben gestionarse eficientemente para no comprometer la liquidez ni la rentabilidad.
 
-    .row.mb-3.align-items-center.justify-content-center
-      .col-12.col-lg-3.mb-4.mb-lg-0
-        figure
-          img(src='@/assets/curso/temas/tema3/img08.png', alt='Imagen decorativa')
-      .col-12.col-lg-9
-          p.mb-0 El equilibrio entre ingresos y egresos define la solvencia y sostenibilidad financiera de la organización. Cuando los ingresos superan los egresos, se genera un superávit, que puede reinvertirse o destinarse a reservas. Por el contrario, cuando los egresos superan los ingresos, se produce un déficit, que puede obligar a la empresa a recurrir a financiamiento externo o a ajustar sus operaciones. Por lo tanto, el presupuesto debe proyectar ambos flujos de manera realista y coordinada, asegurando que los recursos disponibles se asignen de forma eficiente y alineada con los objetivos estratégicos.
+      .row.mb-3.align-items-center.justify-content-center
+        .col-12.col-lg-3.mb-4.mb-lg-0
+          figure
+            img(src='@/assets/curso/temas/tema3/img08.png', alt='Imagen decorativa')
+        .col-12.col-lg-9
+            p.mb-0 El equilibrio entre ingresos y egresos define la solvencia y sostenibilidad financiera de la organización. Cuando los ingresos superan los egresos, se genera un superávit, que puede reinvertirse o destinarse a reservas. Por el contrario, cuando los egresos superan los ingresos, se produce un déficit, que puede obligar a la empresa a recurrir a financiamiento externo o a ajustar sus operaciones. Por lo tanto, el presupuesto debe proyectar ambos flujos de manera realista y coordinada, asegurando que los recursos disponibles se asignen de forma eficiente y alineada con los objetivos estratégicos.
         
 
     separador
@@ -108,7 +108,7 @@
              
     .row.mb-5.align-items-center.justify-content-center
       .col-12.col-lg-8
-          p La clasificación de egresos representa un proceso analítico fundamental para categorizar las salidas de recursos según su naturaleza, destino y comportamiento financiero. Esta diferenciación técnica permite distinguir entre los desembolsos inherentes a la operación central del negocio, que determinan su eficiencia operativa y aquellos asociados a actividades complementarias o esporádicas. Dicha segmentación resulta crucial para evaluar la estructura de costos, optimizar la asignación de recursos y fortalecer la gestión presupuestal. A continuación se presentan estas categorías:
+          p La clasificación de egresos representa un proceso analítico fundamental para categorizar las salidas de recursos según su naturaleza, destino y comportamiento financiero. Esta diferenciación técnica permite distinguir entre los desembolsos inherentes a la operación central del negocio, que determinan su eficiencia operativa y aquellos asociados a actividades complementarias o esporádicas. Dicha segmentación resulta crucial para evaluar la estructura de costos, optimizar la asignación de recursos y fortalecer la gestión presupuestal. A continuación, se presentan estas categorías:
             .col-lg-12.position-relative
               .crd.crd--avatarHorizontal.py-3.py-lg-0.style2
                 .row.align-items-center
