@@ -26,7 +26,7 @@
           figure
             img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/intro/img02.svg', alt='imagen decorativa')
     .video.mb-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/qcWnSBal78Y?si=oGc1sp5bByaLlu8D" title="Fundamentos del presupuesto organizacional y su estructura técnica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/qcWnSBal78Y?si=E6iyfsuALHvXhh-R" title="Fundamentos del presupuesto organizacional y su estructura técnica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
 
 
 </template>
