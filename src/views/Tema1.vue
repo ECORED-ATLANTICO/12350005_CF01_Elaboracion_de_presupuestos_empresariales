@@ -37,18 +37,18 @@
           .tarjeta.bg-color-primario-p5.p-4.mb-4(data-aos="fade-left")
             .container
               .row.justify-content-center.align-items-center
-                .col-8.col-md-6.col-lg-2.mx-auto
+                .col-8.col-md-6.col-lg-3.col-xl-2.mx-auto
                   figure
                     img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/temas/tema1/img03.svg', alt='imagen decorativa')
-                .col-12.col-lg-10
+                .col-12.col-lg-9.col-xl-10
                   p.mb-0 Articula los objetivos estratégicos con la operación diaria, facilita la coordinación entre áreas, delimita responsabilidades y promueve la disciplina financiera. De este modo, permite anticipar escenarios, reducir la incertidumbre y servir como referencia para la toma de decisiones fundamentadas.
           .tarjeta.bg-color-primario-p5.p-4(data-aos="fade-right")
             .container
               .row.justify-content-center.align-items-center
-                .col-8.col-md-6.col-lg-2.mx-auto
+                .col-8.col-md-6.col-lg-3.col-xl-2.mx-auto
                   figure
                     img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img04.svg', alt='imagen decorativa')
-                .col-12.col-lg-10
+                .col-12.col-lg-9.col-xl-10
                   p.mb-0 Cumple la función de control y retroalimentación, al comparar lo proyectado con lo ejecutado, detectar desviaciones y generar información para decisiones correctivas. Con ello orienta la gestión directiva, alinea esfuerzos hacia objetivos comunes y fortalece la sostenibilidad financiera en distintos horizontes de tiempo.
 
     p.mb-5 Los presupuestos pueden clasificarse según su alcance, finalidad y horizonte de aplicación. Entre los más utilizados se encuentran:
@@ -129,7 +129,7 @@
                   img(src='@/assets/curso/temas/tema1/img08.svg', alt='Texto que describa la imagen')
 
             .row.align-items-center
-              .col-lg-4.mb-4.mb-md-0
+              .col-lg-4.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/temas/tema1/img09.svg', alt='Texto que describa la imagen')
               .col-lg-8.text-left
