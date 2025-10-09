@@ -148,7 +148,7 @@ export default {
         'https://www.bibliotecadigitaldebogota.gov.co/resources/3608162/?utm',
     },
     {
-      tema: 'Presupuesto organizacional',
+      tema: 'Presupuestos empresariales',
       referencia:
         'YouTube. (2020). <em>Presupuestos empresariales | 1. Introducción a ... </em>[Video]. YouTube.',
       tipo: 'Video',

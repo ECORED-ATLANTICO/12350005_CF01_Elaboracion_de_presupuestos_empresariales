@@ -89,7 +89,7 @@
     .row.mb-5.align-items-center.justify-content-center(data-aos="fade-right")
       .col-12.col-lg-8.mb-4.mb-lg-0
           p La clasificación de ingresos constituye un procedimiento analítico esencial para categorizar los recursos económicos según su naturaleza, origen y periodicidad. Al separar los ingresos en operacionales (los del negocio principal) y no operacionales (los de actividades secundarias), se puede ver claramente qué tan estable y sostenible es la empresa.
-          p.mb-0 A continuación se muestra cada tipo para identificarlos:
+          p.mb-0 A continuación, se muestra cada tipo para identificarlos:
       .col-12.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema3/img10.png', alt='Imagen decorativa')
